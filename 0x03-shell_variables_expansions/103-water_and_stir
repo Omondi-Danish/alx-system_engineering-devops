@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "${WATER//[waetr]/01234}+${STIR//[rtis.]/01234}"|xargs echo|tr '[0-9]' 'bestchol'
