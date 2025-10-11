@@ -1,2 +1,2 @@
 #!/bin/bash
-i=0 while read l do if [ $((i%2)) -eq 0 ] then echo "$l" fi i=$((i+1)) done
+#i=0$(echo)while read l$(echo)do if test $((i%2)) -eq 0$(echo)then echo "$l"$(echo)fi$(echo)i=$((i+1))$(echo)done
